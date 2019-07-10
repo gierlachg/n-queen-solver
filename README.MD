@@ -1,0 +1,2 @@
+#### N Queen Problem solver
+An implementation of greedy algorithm for N Queen problem (variation of [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle)) with an additional constraint that no 3 queens can form a straight line - based on paper by **Martin Richards** [_Backtracking Algorithms in MCPL using Bit Patterns and Recursion_](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.7113&rep=rep1&type=pdf).
