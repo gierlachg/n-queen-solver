@@ -1,4 +1,4 @@
-name: Java CI
+name: Java
 
 on: [push]
 
@@ -14,4 +14,4 @@ jobs:
       with:
         java-version: 12
     - name: Build with Gradle
-      run: ./gradlew build
+      run: chmod +x ./gradlew build
